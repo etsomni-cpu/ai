@@ -42,7 +42,7 @@
   "devDependencies": {
     "@types/node": "20.17.24",
     "@vercel/ai-tsconfig": "workspace:*",
-    "tsup": "^8.3.0",
+    "tsup": "^8.3.5",
     "typescript": "5.8.3",
     "zod": "3.25.76"
   },
